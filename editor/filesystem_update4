@@ -1,0 +1,6 @@
+res://StartScreen.tscn
+res://buton_start.gd
+res://StartScreen.gd
+res://zona1.tscn
+res://player.tscn
+res://player.gd

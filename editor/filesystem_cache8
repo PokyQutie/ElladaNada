@@ -1,3 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1715270796
+::res://::1715281465
 icon.svg::CompressedTexture2D::6948070664617648950::1715270791::1715270797::1::::<><>::
+player.tscn::PackedScene::3785353086059295514::1715281263::0::1::::<><>::
+sam.png::CompressedTexture2D::8955514220873950457::1715281465::1715281465::1::::<><>::
+StartScreen.gd::GDScript::-1::1715273541::0::1::::<>Node2D<>::
+tilemap.png::CompressedTexture2D::465900019635078176::1715273742::1715273742::1::::<><>::
+zona1.tscn::PackedScene::6949603387405968858::1715275464::0::1::::<><>::uid://gvxkm4yvxdns::::res://tilemap.png
+StartScreen.tscn::PackedScene::8370500876621382818::1715275463::0::1::::<><>::res://StartScreen.gd
