@@ -1,6 +1,7 @@
 res://StartScreen.tscn
 res://zona1.tscn
 res://player.tscn
-res://player.gd
-res://StartScreen.gd
-res://zona1.gd
+res://zona2.tscn
+res://scara2.tscn
+res://zona3.tscn
+res://coin.tscn

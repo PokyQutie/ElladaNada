@@ -1,10 +1,10 @@
 CollisionShape2D
+Sprite2D
 Area2D
-Camera2D
+TileMap
 RemoteTransform2D
+Camera2D
 AnimationTree
 AnimationPlayer
-Sprite2D
 CharacterBody2D
-TileMap
 Button
